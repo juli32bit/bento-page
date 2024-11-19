@@ -15,5 +15,4 @@
     |-- smile-icon.png
     |-- web-black-icon.png
     |-- web-white-icon.png
-    |-- tread-skateboard.jpg
     </pre> 
