@@ -4,8 +4,9 @@
 </p>
 
 <h2>A organização</h2>
-<li> 
-  /projeto
+  
+  
+<pre>  /projeto
 |-- index.html
 |-- style.css
 |-- animationLoading.js
@@ -14,4 +15,5 @@
     |-- smile-icon.png
     |-- web-black-icon.png
     |-- web-white-icon.png
-    |-- tread-skateboard.jpg</li>
+    |-- tread-skateboard.jpg
+    </pre> 
